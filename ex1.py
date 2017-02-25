@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Example #1 from the learn python the hard way website book
 print "Hello World!"
 print "Hello Again"

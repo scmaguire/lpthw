@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Example 3 code
 
 print "I will now count my chickens:"
